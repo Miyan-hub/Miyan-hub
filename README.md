@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Miyan
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miyan0001&label=Profile%20views&color=0e75b6&style=flat" alt="Miyan0001" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Miyan-hub&label=Profile%20views&color=0e75b6&style=flat" alt="Miyan-hub" /> </p>
 
 ## 🌈 Pronouns
 - She/Her
@@ -24,18 +24,18 @@ Software Developer
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Miyan0001&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Miyan-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miyan0001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan0001&layout=compact&langs_count=7&theme=radical"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Miyan-hub&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miyan-hub&layout=compact&langs_count=7&theme=radical"/>
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan0001&theme=radical)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Miyan-hub&theme=radical)](https://git.io/streak-stats)
 
 ## 📈 Contribution Graph
-[![Miyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miyan0001&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Miyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Miyan-hub&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## 🛠️ Technologies & Tools
 
